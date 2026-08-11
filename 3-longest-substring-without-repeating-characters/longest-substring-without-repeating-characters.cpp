@@ -10,7 +10,7 @@ public:
                 st++;
             }
             ch.insert(s[end]);
-            l = max(l, end - st + 1);
+            l = max(l,end-st+1);
         }
         return l;
     }
