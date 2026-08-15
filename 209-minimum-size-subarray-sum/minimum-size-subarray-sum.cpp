@@ -18,6 +18,5 @@ public:
         else{
             return a;
         }
-        
     }
 };
